@@ -1,0 +1,14 @@
+body {
+  background-color:red;
+  margin:25px 20px 25px 20px;
+}
+
+h1 {
+  font-family:"Times New Roman", Times, serif;
+  text-align:center;
+}
+
+
+p {
+  font-family:Verdana, Helvetica, sans-serif;
+}
